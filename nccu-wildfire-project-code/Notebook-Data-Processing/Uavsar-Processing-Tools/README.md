@@ -1,1 +1,0 @@
-This notebook is used to crop the flight path down to the incidence region (where the wildfire occured) given that the relative coordinates of the wildfire are known. Can be cropped based on a variety of parameters such as shape (circle, rectangle, or .shp file).
