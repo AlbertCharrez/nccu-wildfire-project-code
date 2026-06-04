@@ -15,3 +15,6 @@ Perimeter Generation
 - HV+HH : Index that was tested to see its individual performance done as log10((HV+HH[time 1]) / (HV+HH[time 2])).
 - HV-HH : Index that was tested to see its individual performance done as log10((HV-HH[time 1]) / (HV-HH[time 2])).
 - HV logratio : Original index used to evaluate the degradation of the area, done as (hv[time 1] / hv[time 0]). 
+
+Superpixwel Segmentation
+- Contains the code for generating the superpixel segmenation map of the fire to decrease overall processing time. 
