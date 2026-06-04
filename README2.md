@@ -6,10 +6,10 @@
 - Useful-Functions: This folder contains as the name suggests some useful functions that can be used on NC Share including an Unzip function, and different ways to evaluate your coordinates to ensure that the appropriate area is being explored.
 
 ## CPP
-- Contains the .cpp files required for the RTC portion of the code.
+- Contains the '.cpp' files required for the RTC portion of the code.
 
 ## Headers
-- Contains the .h files required for the RTC portion of the code.
+- Contains the '.h' files required for the RTC portion of the code.
 
 ## Python
-- Contains the .py files used throughout all parts of the project.
+- Contains the '.py' files used throughout all parts of the project.
